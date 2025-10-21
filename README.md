@@ -23,9 +23,6 @@ Bitline Icons
 ' 2. Browse the folders and pick the icons you need.
 ' 3. Use them in your projects – just import or drop them in.
 
-' Example:
-' <img src="/icons/arrows/arrow-up.svg" alt="Arrow Up Icon" />
-
 ' Coming Soon
 '
 ' - NPM package for easy installation
